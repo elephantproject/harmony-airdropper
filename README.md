@@ -11,7 +11,7 @@ truffle compile
 
 truffle migrate --reset --skip-dry-run --network mainnet
 
---------------------
+-------------------
 
 # Harmony Box
 
