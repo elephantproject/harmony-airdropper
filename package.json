@@ -1,0 +1,13 @@
+{
+  "name": "harmony-box",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@trufflesuite/web3-provider-engine": "^15.0.13-1",
+    "dotenv": "^8.2.0",
+    "ethereumjs-wallet": "^1.0.1",
+    "solc": "^0.7.6",
+    "truffle": "^5.1.66",
+    "zeppelin-solidity": "^1.7.0"
+  }
+}
