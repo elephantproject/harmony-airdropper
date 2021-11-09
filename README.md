@@ -1,5 +1,18 @@
 # ![Harmony](box-img-sm.png)
 
+Elephant Airdropper Deploy Guide
+
+
+git clone elephantproject/airdropper
+
+yarn (install dependencies)
+
+truffle compile 
+
+truffle migrate --reset --skip-dry-run --network mainnet
+
+--------------------
+
 # Harmony Box
 
 Harmony Box is a Truffle box that will get you quickly up and running deploying smart contracts on Harmony using Truffle & native Ethereum tooling.
